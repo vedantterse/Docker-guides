@@ -108,9 +108,11 @@ replace ```git@github.com:yourusername/final.git``` with your ssh
  ```bash
  git config --global user.email "you@example.com"
  ```
+-your github email
  ```bash
-  git config --global user.name "Your Name"
+  git config --global user.name "userName"
 ```
+-your github username
 ```bash
 git commit -m "your message"
 ```
