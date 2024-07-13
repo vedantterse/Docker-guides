@@ -47,11 +47,12 @@ PLACE YOUR EMAIL in the ```your_email@example.com``` which is used in github
 
 ![alt text](<Screenshot 2024-07-13 234116.png>)
 
-
-**After that Make a ``dockerfile`` in your directory**
-AND paste the content form the Dockerfile
-
 #
+
+## ● After that Make a ``dockerfile`` in your directory
+**AND paste the content form the [Dockerfile](https://github.com/vedantterse/Docker-guides/blob/main/git-in-docker/dockerfile)**
+
+
  ## ✪ THIRD OPEN TERMINAL IN THE SAME DIRCTORY AS THE CODE
 
  **MAKE SURE YOU HAVE DOCKER DESKTOP RUNNING IN BACKGROUND**
