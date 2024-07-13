@@ -35,7 +35,7 @@ PLACE YOUR EMAIL in the ```your_email@example.com``` which is used in github
 
 **FOR EXAMPLE** 
 
-```ssh-ed25519AAAAC3NzaC1lZD63NTE5AAAAIGgRRTk93ulHM0wJ48mnpAzByB89Qn/ERVdppblKx123 vedantterse7605@gmail.com```
+```ssh-ed25519AAAAC3NzaC1lZD63NTE5AAAAIGgRRTk93ulHM0wJ48mnpAzByB89Qn/ERVdppblKx123 yourname@gmail.com```
 
 
 
