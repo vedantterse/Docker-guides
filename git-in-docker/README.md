@@ -53,11 +53,15 @@ PLACE YOUR EMAIL in the ```your_email@example.com``` which is used in github
 **AND paste the content form the [Dockerfile](https://github.com/vedantterse/Docker-guides/blob/main/git-in-docker/dockerfile)**
 
 
- ## ✪ THIRD OPEN TERMINAL IN THE SAME DIRCTORY AS THE CODE
+ ## ✪ THIRD OPEN TERMINAL IN THE SAME DIRECTORY AS THE CODE
 
  **MAKE SURE YOU HAVE DOCKER DESKTOP RUNNING IN BACKGROUND**
 
 **IN TERMINAL PASTE THE FOLLOWING COMMANDS**
+#### Login with your credintials 
+```bash
+docker login
+```
 
 ```bash
 docker build -t test  .
@@ -105,6 +109,9 @@ replace ```git@github.com:yourusername/final.git``` with your ssh
 ```bash
  git rm --cached id_ed25519.pub
  ```
+```bash
+git rm --cached dockerfile
+```
 
  ```bash
  git config --global user.email "you@example.com"
